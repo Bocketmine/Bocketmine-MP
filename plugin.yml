@@ -1,0 +1,7 @@
+---
+name: Bocketmine-MP
+version: 0.0.1
+main: Bocketmine\Bocketmine_MP\Main
+api: 5.15.0
+src-namespace-prefix: Bocketmine\Bocketmine_MP
+...
